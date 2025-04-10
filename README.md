@@ -9,7 +9,7 @@ I’m a developer-in-progress with a passion for clean, efficient, and impactful
 
 I focus on writing code that’s not only functional but thoughtful—code that considers the user’s experience and the developer’s ease of maintenance. I strive to bridge the gap between logic and creativity, structure and expression.
 
-When I’m not coding, I’m either working on improving myself mentally and physically, tutoring Python and JavaScript, diving into the world of cybersecurity and ethical hacking, or doing push-ups to some motivational music.
+When I’m not coding, I’m either working on improving myself mentally and physically, tutoring Python and JavaScript, or doing push-ups to some motivational music.
 
 ---
 
